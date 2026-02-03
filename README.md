@@ -12,8 +12,7 @@ Você pode interagir com o protótipo clicando no link abaixo:
 
 ## 📋 Funcionalidades Prototipadas
 * Tela de Login (E-mail/Senha).
-* Fluxo de Recuperação de Senha.
-* Validação de campos (mensagens de erro).
+
 
 ---
 *Projeto desenvolvido por Helena Demenjour*
